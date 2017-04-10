@@ -1,0 +1,20 @@
+{
+  "name": "homeday-1",
+  "version": "1.0.0",
+  "description": "Andela Homestudy Day 1 assessments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clintfidel/homeday-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clintfidel/homeday-1/issues"
+  },
+  "homepage": "https://github.com/clintfidel/homeday-1#readme"
+}
